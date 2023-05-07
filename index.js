@@ -26,9 +26,9 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'credits',
-        message: 'List your collaborators, if any, with links to their GitHub profiles.'
-    },
+        name: 'contributing',
+        message: 'If you would like other developers to contribute to your application, you can include guidelines for how to do so.'
+      },
     {
         type: 'list',
         name: 'license',
@@ -39,6 +39,16 @@ const questions = [
         type: 'input',
         name: 'tests',
         message: 'Write tests for your application then provide examples on how to run them here.'
+      },
+      {
+        type: 'input',
+        name: 'github',
+        message: 'What is your GitHub username?'
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'What is the best email address users can use to contact you?'
       },
 ];
 
