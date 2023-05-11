@@ -23,7 +23,7 @@
 
   ## Usage
 
-  Open the integrated terminal on the package.json file. Use the command "node index.js" in the terminal. This will prompt a series of user inputs/questions. Use arrow keys to navigate lists and enter key to continue.
+  Open the integrated terminal on the package.json file. Use the command "node index.js" in the terminal. This will prompt a series of user inputs/questions. Use arrow keys to navigate lists and enter key to continue. To watch a video breakdown, click [here](https://drive.google.com/file/d/1okE4rllTN_MNhaiC6cZ32QpWKx9tDxLq/view)
 
   ## License
     This project is licensed under the MIT license.
